@@ -1,0 +1,6 @@
+name: LocalGlobalChat
+version: '${version}'
+
+main: ru.swa.localGlobalChat.LocalGlobalChat
+api-version: '26.3'
+load: POSTWORLD
